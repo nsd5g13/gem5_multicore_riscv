@@ -3,11 +3,12 @@ Original source codes from: https://github.com/GT-CHIPS/gem5_chips
 Running OS: Unbuntu 22.04
 
 Tools:
-scons v4.0.1
-gcc 11.2.0
-python 2.7
+scons v4.0.1,
+gcc 11.2.0,
+python 2.7,
 
 Note: 
+
 "scons" must be performed with Python 2.7, command:
 $python2.7 `which scons' build/RISCV_MESI_Two_Level/gem5.opt
 
