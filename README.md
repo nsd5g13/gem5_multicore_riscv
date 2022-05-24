@@ -1,6 +1,6 @@
 Original source codes from: https://github.com/GT-CHIPS/gem5_chips
 
-Running OS: Unbuntu 22.04
+Running OS: Ubuntu 22.04
 
 Tools:
 scons v4.0.1,
