@@ -34,3 +34,5 @@ Include the following definition in gem5_chips-master/build/RISCV_MESI_Two_Level
 --network=garnet2.0 \
 --topology=CHIPS_Multicore_MemCtrlChiplet4 \
 -c tests/test-progs/hello/bin/riscv/linux/hello
+
+5. RISCV gcc cross compiler: https://github.com/riscv-collab/riscv-gnu-toolchain
